@@ -79,6 +79,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
+
 ### 💻 Software and tools
 
 <p>
