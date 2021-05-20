@@ -33,3 +33,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/omkar669/Simple-View-Counter">
     <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
 </p>
+
+## I love to learn Ethical Hacking, Data Structures and Technical Stuff!
+- 🔭 I’m currently in college pursuing my Bsc Computer Science
+- 🌱 I’m currently learning everything in technology 🤣
+- 🥅 Contribute more to Open Source projects
+- ⚡ Fun fact: I love to hack and learn all day
